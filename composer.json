@@ -1,0 +1,17 @@
+{
+    "name": "flevee/shipping-rates",
+    "description": "Shipping api which delivers mulitiple rates",
+    "authors": [
+        {
+            "name": "Shane Daniel",
+            "email": "784shane@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Flevee": "src/"
+        }
+    }
+}
